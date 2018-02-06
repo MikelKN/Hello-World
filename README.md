@@ -1,2 +1,2 @@
 # Hello-World
-This is going to be my very first time using Git. I got this
+I am hardworking young computer scientist from howard university. Watch out for me!!
